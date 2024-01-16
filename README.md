@@ -8,7 +8,7 @@
 - 📫 How to reach me **nandini0259@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
-<h1 align="center">Hi , I'm Nandini Guddolla</h1>
+
 <h3 align="left">Connect with me:</h3>
 <img align ="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
