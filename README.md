@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandini Guddolla</h1>
-<h3 align="center">A passionate fullsatck developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnandini156&label=Profile%20views&color=0e75b6&style=flat" alt="gnandini156" /> </p>
 
